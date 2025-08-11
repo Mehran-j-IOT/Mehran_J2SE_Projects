@@ -25,6 +25,7 @@ public class Main {
 
        PersonService.getInstance().save(person1);
         PersonService.getInstance().save(person2);
+        PersonService.getInstance().change(person1);
        PersonService.getInstance().remove(person1);
 
 

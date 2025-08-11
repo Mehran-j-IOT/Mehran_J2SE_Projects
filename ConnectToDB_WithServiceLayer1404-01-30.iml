@@ -8,6 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="DBCP2" level="project" />
-    <orderEntry type="library" name="apache-log4j-2.24" level="project" />
+    <orderEntry type="library" name="forLog" level="project" />
   </component>
 </module>

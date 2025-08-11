@@ -41,4 +41,14 @@ public class Person7se1 {
         this.family = family;
         return this;
     }
+    @Override
+    public String toString() {
+        return "Person7se1{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", family='" + family + '\'' +
+                ", salary=" + salary +
+                '}';
+    }
+
 }

@@ -1,7 +1,0 @@
-{
-  "Configuration": {
-    "AsyncWaitStrategyFactor": {
-      "class": "com.example.AsyncWaitStrategyFactory"
-    }
-  }
-}
